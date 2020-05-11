@@ -1,3 +1,18 @@
+# Twitter dashboard
+
+This twitter dashboard has been developed by the Office for Statistical Regulation (OSR) to help track important and prolific tweets
+relating to the coronavirus. Although, the example search terms relate to coronavirus any search term can be used and therefore
+it can act as a generic twitter dashboard that can be deployed to a cloud service of your choosing.
+
+Below are screenshots of some of the functionality of the dashboard:
+
+![](image/tweets.png)
+![](image/tweets_per_hour.png)
+![](image/hashtags.png)
+![](image/trigrams.png)
+![](image/links.png)
+
+
 # Instructions for running the twitter dashboard
 
 A description of the files is as follows:
